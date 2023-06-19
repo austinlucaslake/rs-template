@@ -1,9 +1,12 @@
-name: Tests
+name: CI
 
 on: [push, pull_request]
 
+permissions:
+  contents: read
+
 jobs:
-  tests:
+  integration:
     runs-on: ${{ matrix.os }}
     defaults:
       run:
