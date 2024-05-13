@@ -1,4 +1,4 @@
-# rust-template
+# rs-template
 
 Template repository for Rust projects
 
@@ -10,8 +10,8 @@ Template repository for Rust projects
 
 ---
 
-[release-badge]: https://img.shields.io/github/v/release/austinlucaslake/rust-template
-[release-url]: https://github.com/austinlucaslake/rust-template/releases/latest
-[license-badge]: https://img.shields.io/github/license/austinlucaslake/rust-template
-[ci-badge]: https://github.com/austinlucaslake/rust-template/actions/workflows/ci.yaml/badge.svg
-[ci-url]: https://github.com/austinlucaslake/rust-template/actions
+[release-badge]: https://img.shields.io/github/v/release/austinlucaslake/rs-template
+[release-url]: https://github.com/austinlucaslake/rs-template/releases/latest
+[license-badge]: https://img.shields.io/github/license/austinlucaslake/rs-template
+[ci-badge]: https://github.com/austinlucaslake/rs-template/actions/workflows/ci.yaml/badge.svg
+[ci-url]: https://github.com/austinlucaslake/rs-template/actions

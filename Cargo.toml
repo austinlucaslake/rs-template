@@ -1,15 +1,10 @@
 [package]
-name = "rust-template"
+name = "rs-template"
 version = "0.1.0"
-authors = ["Austin Lake <53884490+austinlucaslake@users.noreply.github.com>"]
+authors = ["Austin Lucas Lake <git@austinlucaslake.com>"]
 edition = "2021"
 description = "Template repository for Rust projects"
-readme = "https://github.com/austinlucaslake/rust-template/blob/main/README.md"
-repository = "https://github.com/austinlucaslake/rust-template"
-license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/austinlucaslake/rs-template"
+license = "MIT"
 
-[dependencies]
-color-eyre = "*"
-tracing = "*"
-tracing-subscriber = "*"
-strum = { version = "*", features = ["derive"] }
